@@ -1,0 +1,6 @@
+GetMaxFreqs -w test.freqs test.wav
+
+
+test.freqs = guardar o novo
+
+test.wav = musica
